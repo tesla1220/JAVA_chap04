@@ -22,7 +22,30 @@ public class Application01 {
 //        a2.printUpgradeGugudan();
 //        a2.printStarInputRowTimes();
 
+        B_while b = new B_while();
+//        b.testSimpleWhileStatement();
+//        b.testWhileExample();
+//            b.testWhileExample2();
+
+        B_doWhile c = new B_doWhile();
+//        c.testSimpleDoWhileStatement();
+//        c.testDoWhileExample1();
+
+        While_For_Practice d = new While_For_Practice();
+//        d.test1();
+//          d.test2();
+//        d.test3();
+//        d.test4();
+//        d.test5();
+        d.test6();
     }
 
 
-}
+
+
+
+
+    }
+
+
+
