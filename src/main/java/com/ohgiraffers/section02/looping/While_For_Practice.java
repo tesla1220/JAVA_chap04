@@ -13,9 +13,9 @@ public class While_For_Practice {
          */
 
 
-    /* 필기. 1부터 10까지 1씩 증가시키면서 (10번) i값을 출력하는 기본 반복문  */
 
 
+//    1부터 10까지 1씩 증가시키면서 (10번) i값을 출력하는 기본 반복문  */
     public static void test1() {
 
 
@@ -79,6 +79,8 @@ public class While_For_Practice {
 
     }
 
+
+//     while을 이용하여 10부터 1까지 카운트다운 출력
     public void test4() {
 
         int a = 10;
@@ -89,7 +91,7 @@ public class While_For_Practice {
         }
     }
 
-    // 구구단 7단 출력
+    // while을 사용해 구구단 7단 출력
 
     public void test5() {
 
@@ -100,8 +102,9 @@ public class While_For_Practice {
         }
     }
 
-    // 1부터 100까지 짝수만 출력
 
+
+    // 1부터 100까지 짝수만 출력
     public void test6 () {
 
         int i = 1;
